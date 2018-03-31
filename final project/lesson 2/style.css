@@ -1,0 +1,36 @@
+.chap{
+	width: 60px;
+	height: 60px;
+	border:2px solid black;
+	border-radius: 10px;
+}
+.guyn1{
+background-color: blue;
+position: absolute;
+top:360px;
+left:620px;
+}
+.guyn2{
+background-color: black;
+position: absolute;
+top:360px;
+left:690px;
+}
+.guyn3{
+background-color: red;
+position: absolute;
+top:360px;
+left:760px;
+}
+.guyn4{
+background-color: yellow;
+position: absolute;
+top:360px;
+left:830px;
+}
+.guyn5{
+background-color: green;
+position: absolute;
+top:360px;
+left:900px;
+}
